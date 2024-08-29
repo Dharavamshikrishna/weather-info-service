@@ -3,9 +3,9 @@ const http = require('http');
 const url = require('url');
 
 const app = express();
-const port = 3010;
+const port = 3000;
 
-// Your Weatherstack API key
+//Weatherstack API key
 const API_KEY = '1a260754fd15f039730fd064518c1a04'; 
 
 
